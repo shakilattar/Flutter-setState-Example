@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: ElevatedButton.styleFrom(
                 backgroundColor: _hasBeenPressed ? Colors.green : Colors.red,
               ),
-              child: const Text('Change Color'),
+              child: const Text('Change Color Button'),
             ),
           ],
         ),
